@@ -8,7 +8,6 @@ module.exports = {
         alias: {}
       }
     },
-    base:'Web-Docs',
     nav: [
       {
           text: 'Guide',
