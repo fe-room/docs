@@ -4,8 +4,9 @@ module.exports = {
   theme: "reco",
   base: "/docs/",
   themeConfig: {
+    lastUpdated: 'Last Updated',
     authorAvatar: '/hero.jpg',
-    author: 'admin',
+    author: 'cm',
     startYear: '2021',
     nav: [
       { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' }
