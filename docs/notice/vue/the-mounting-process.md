@@ -2,7 +2,7 @@
 title: 【vue原理解析】the mounting process
 date: 2021-2-13  14:58
 categories:
- - frontEnd
+ - Vue
 tags:
  - vue
 ---

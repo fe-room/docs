@@ -2,7 +2,7 @@
 title: 【vue原理解析】Functional Components
 date: 2021-2-12  16:10
 categories:
- - frontEnd
+ - Vue
 tags:
  - vue
 ---
